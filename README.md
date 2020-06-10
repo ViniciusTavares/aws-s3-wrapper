@@ -2,10 +2,4 @@
 
 Minimalist S3 wrapper for javascript
 
-## Methods
-
-## Sample
-
-## IAM user Usage
-
-## Key and Secret Usage 
+It supports retrieving IAM / roles credentials and Access Key and Secret by env vars. 
